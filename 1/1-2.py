@@ -1,4 +1,4 @@
-with open('1.txt') as f:
+with open('1/1.input') as f:
     lines = f.read().splitlines()
 
 intlines = list(map(int, lines))
