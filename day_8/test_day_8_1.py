@@ -1,4 +1,3 @@
-from day_8.day_8_1 import evaluate_lines
 from day_8_1 import *
 
 def test_parse_input_line():
